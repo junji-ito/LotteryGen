@@ -1,0 +1,2 @@
+# LotteryGen
+Lottery 
